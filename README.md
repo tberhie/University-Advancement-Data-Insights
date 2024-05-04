@@ -13,7 +13,9 @@ The analysis resulted in actionable insights that led to a potential 5% increase
 
 ### Technologies Used:
 Python: Data cleaning, manipulation, and analysis (pandas, NumPy)
+
 SQL: Data extraction from databases (MySQL)
+
 Tableau: Data visualization, dashboard creation
 
 ### Results:
